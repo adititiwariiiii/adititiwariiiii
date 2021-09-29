@@ -1,4 +1,4 @@
-Heyaaa, I’m Aditiinterested in web development and designing,currently learning IT
+Heyaaa, I’m Aditi,interested in web development and designing,currently learning IT
 - 📫 How to reach me dm me at adititiwariiiii on instagram 
 
 <!---
