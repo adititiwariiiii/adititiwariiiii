@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @adititiwariiiii
-- 👀 I’m interested in web development and designing 
-- 🌱 I’m currently learning IT
-- 💞 
+Heyaaa, I’m Aditiinterested in web development and designing,currently learning IT
 - 📫 How to reach me dm me at adititiwariiiii on instagram 
 
 <!---
