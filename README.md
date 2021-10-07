@@ -1,5 +1,5 @@
 Heyaaa, I’m Aditi,interested in web development and designing,currently learning IT
-- 📫 How to reach me dm me at adititiwariiiii on instagram 
+
 
 <!---
 adititiwariiiii/adititiwariiiii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
